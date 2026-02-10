@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm uddhani isuruwathni ponnamperuma 
+undergraduate university of moratuwa 
 
 **Uddhani2002/Uddhani2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
