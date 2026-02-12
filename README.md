@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uddhani Ponnamperuma</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uddhani2002&label=Profile%20views&color=0e75b6&style=flat" alt="uddhani2002" /> </p>
-
 - 📫 How to reach me **ponnamperumauddhani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
