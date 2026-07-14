@@ -6,10 +6,6 @@
 
 # Hi there, I'm Uddhani Isuruwathni 👋
 
-<div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Frontend+Developer;Mobile+App+Enthusiast;UI%2FUX+Explorer" alt="Typing SVG" />
-</div>
-
 **Frontend & Mobile Application Developer** · 📍 Sri Lanka
 
 [![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/YOUR_GITHUB_USERNAME)
